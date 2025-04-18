@@ -1,5 +1,7 @@
 # Hi there 👋 I'm Quoc Dat
-
+<div align="center">
+  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=230077B5)](https://www.linkedin.com/in/hal-long/](https://www.linkedin.com/in/dat-ho-ba49b32b0/)
+</div>
 ## 🚀 About Me
 
 ## 📊 GitHub Stats
